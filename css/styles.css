@@ -467,6 +467,19 @@ height: 40px;
               padding-top: 50px;
               padding-left: -100px;
              }
+     .third-section-btn {
+              background-color: #BA68C8;
+                  border: none;
+                  border-radius: 40px;
+                  font-size: 0.9rem;
+                  padding: 10px 10px;
+                  margin-bottom: 40px;
+                  text-align: center;
+                  transition: all 0.2s;
+              box-shadow: 0 0.5rem 1rem 0 rgba(186,104,200,0.48);
+              width: 150px;
+              height: 50px;
+            }
             }  
 
   
